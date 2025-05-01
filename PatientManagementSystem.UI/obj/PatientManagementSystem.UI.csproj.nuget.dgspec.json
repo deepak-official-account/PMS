@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bisht.deepak\\source\\repos\\PatientManagementSystem\\PatientManagementSystem.UI\\PatientManagementSystem.UI.csproj": {}
+    "C:\\Users\\bisht.deepak\\source\\repos\\PMS\\PatientManagementSystem.UI\\PatientManagementSystem.UI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bisht.deepak\\source\\repos\\PatientManagementSystem\\PatientManagementSystem.UI\\PatientManagementSystem.UI.csproj": {
+    "C:\\Users\\bisht.deepak\\source\\repos\\PMS\\PatientManagementSystem.UI\\PatientManagementSystem.UI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bisht.deepak\\source\\repos\\PatientManagementSystem\\PatientManagementSystem.UI\\PatientManagementSystem.UI.csproj",
+        "projectUniqueName": "C:\\Users\\bisht.deepak\\source\\repos\\PMS\\PatientManagementSystem.UI\\PatientManagementSystem.UI.csproj",
         "projectName": "PatientManagementSystem.UI",
-        "projectPath": "C:\\Users\\bisht.deepak\\source\\repos\\PatientManagementSystem\\PatientManagementSystem.UI\\PatientManagementSystem.UI.csproj",
+        "projectPath": "C:\\Users\\bisht.deepak\\source\\repos\\PMS\\PatientManagementSystem.UI\\PatientManagementSystem.UI.csproj",
         "packagesPath": "C:\\Users\\bisht.deepak\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bisht.deepak\\source\\repos\\PatientManagementSystem\\PatientManagementSystem.UI\\obj\\",
+        "outputPath": "C:\\Users\\bisht.deepak\\source\\repos\\PMS\\PatientManagementSystem.UI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
